@@ -26,12 +26,17 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 <link rel="stylesheet" href="/css/main.css">
 
+
+
+
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 <link rel="manifest" href="/manifest.json">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="theme-color" content="#ffffff">
+
+
 
 <!-- NoterBox analytics -->
 <script type="text/javascript">
@@ -62,10 +67,11 @@
 
 <section id="info-pane" class="row text-center info">
   
-  <h3 class="intro">Coffee Drinker</h3>
-
-  <h4 style="line-height:1.5;" class="description">I've been using Vim for 2 years now, mostly because I can't figure out how to exit it.</h4>
-
+  <h3 class="intro">Coffee Drinker &amp; Startup Guru Extraordinaire</h3>
+  
+  
+  <h4 style="line-height:1.5;" class="description">@NoterBox Founder. Previously @Colorbox, @Intranets-Talk and @Varisystems. <br/> &ldquo;What is F times 5? It&rsquo;s Fleventy-five.&rdquo;</h4>
+  
 </section>
 
 
@@ -126,7 +132,7 @@
   "@context": "http://schema.org",
   "@type": "Person",
   "name": "Gabriel Popa",
-  "url": "https://intranets-talk.com",
+  "url": "",
   "sameAs": [
     "https://twitter.com/IntranetsTalk",
     
@@ -162,6 +168,14 @@
   ]
 }
 </script>
+
+
+
+<section id="main-menu-pane" class="row text-center main-menu">
+  <h4><a class="menu-item" target="_blank" href="https://noterbox.com">NoterBox App</a></h4>
+  <h4><a class="menu-item" target="_blank" href="https://noterbox.com/blog">Blog</a></h4>
+  <h4><a class="menu-item" target="_blank" href="https://noterbox.com/about">About</a></h4>
+</section>
 
 
 
