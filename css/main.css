@@ -30,7 +30,8 @@ body
     min-height: 100%;
     margin: 0;
 
-    background-color: #fcfcfc;
+    /* background-color: #fcfcfc; */
+    background-color: #333;
 }
 html
 {
@@ -42,7 +43,7 @@ html
 }
 .author
 {
-    color: #444;
+    color: #998;
 }
 .author h1,
 .author h2,
