@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Gabriel Popa</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Gabriel Popa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 07 Jan 2025 12:04:56 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tomboy</title>
+      <link>/categories/tomboy/</link>
+      <pubDate>Tue, 07 Jan 2025 12:04:56 +0000</pubDate>
+      
+      <guid>/categories/tomboy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/categories/linux/</link>
+      <pubDate>Tue, 07 Jan 2025 09:40:03 +0000</pubDate>
+      
+      <guid>/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
