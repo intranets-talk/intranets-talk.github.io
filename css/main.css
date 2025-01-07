@@ -129,17 +129,17 @@ div.content
 }
 .header
 {
-    margin-top: 40px;
-    margin-bottom: 20px;
+    margin-top: 26px;
+    margin-bottom: 12px;
 }
 .headshot
 {
     width: 224px;
-    height: 200px;
+    height: 224px;
 }
 .info
 {
-    margin-top: 10px;
+    margin-top: 6px;
 /**    margin-bottom: 20px; **/
 }
 .intro
