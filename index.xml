@@ -6,10 +6,19 @@
     <description>Recent content on Gabriel Popa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 Jan 2025 12:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 08:51:45 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>electricity bill</title>
+      <link>/blog/electricity-bill/</link>
+      <pubDate>Sun, 12 Jan 2025 08:51:45 +0000</pubDate>
+      
+      <guid>/blog/electricity-bill/</guid>
+      <description>truth be told</description>
+    </item>
     
     <item>
       <title>tomboy-ng</title>
@@ -17,7 +26,8 @@
       <pubDate>Tue, 07 Jan 2025 12:04:56 +0000</pubDate>
       
       <guid>/blog/tomboy/</guid>
-      <description>tomboy-ng is not a replacement for tomboy notes. there, I said it.</description>
+      <description>tomboy-ng is not a replacement for tomboy notes.
+there, I said it.</description>
     </item>
     
     <item>
